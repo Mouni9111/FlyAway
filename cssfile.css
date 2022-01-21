@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+#bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 90%;
+}
+td {
+  text-align: center;
+}
+#top {
+	position: fixed;
+    left: 0;
+    right: 0;
+    height: 10%;
+    top: 0;
+    background-color: grey;
+}
+
+#bottom {
+    bottom: 0;
+}
+form{
+	margin: auto;
+	align: center;
+}
